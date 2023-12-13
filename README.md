@@ -65,6 +65,8 @@ Removing or replacing special characters that may cause issues.
 
 These methods can be combined or applied iteratively, depending on the specific challenges presented by the dataset. The goal is to ensure that the data is accurate, consistent, and suitable for the intended analysis or application.
 
+![Screenshot 2023-12-13 125201](https://github.com/SAMEER969/Data_Cleaning_Excel/assets/88267199/a49ae72f-2f3f-4568-8061-90eaa28a3c5e)
+
 
 
 
