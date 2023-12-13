@@ -14,6 +14,8 @@ Some key reasons why data cleaning is important:
 
 **• Better Insights:** Clean data allows for more accurate and meaningful insights. It enables analysts and decision-makers to trust the information they are working with, leading to more informed and reliable conclusions.
 
+![image](https://github.com/SAMEER969/Data_Cleaning_Excel/assets/88267199/1b2a0fc6-c699-4d56-ae8b-2320e7389d81)
+
 In this project, the raw and dirty datasets containing of various data is cleaned using Microsoft excel
 
 There are numerous ways to clean data, and the specific methods you choose may depend on the nature of the data and the issues present. Some of data cleaning processes using Excel:
