@@ -65,7 +65,10 @@ Removing or replacing special characters that may cause issues.
 
 These methods can be combined or applied iteratively, depending on the specific challenges presented by the dataset. The goal is to ensure that the data is accurate, consistent, and suitable for the intended analysis or application.
 
+Example screenshots of data cleaning of employee_data using excel data cleaning process:
 ![Screenshot 2023-12-13 125201](https://github.com/SAMEER969/Data_Cleaning_Excel/assets/88267199/a49ae72f-2f3f-4568-8061-90eaa28a3c5e)
+
+![Screenshot 2023-12-13 125304](https://github.com/SAMEER969/Data_Cleaning_Excel/assets/88267199/594d6b0d-0489-4ec4-a9ed-8729b43d06fe)
 
 
 
