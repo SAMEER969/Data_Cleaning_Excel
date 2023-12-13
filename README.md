@@ -3,6 +3,7 @@ Data cleaning is a crucial step in the data analysis process that involves ident
 Clean and accurate data is essential for making informed decisions, conducting meaningful analyses, and ensuring the reliability of results.
 
 Some key reasons why data cleaning is important:
+
 **• Accuracy and Reliability:** Clean data ensures that your analyses and reports are based on accurate information. Inaccurate or inconsistent data can lead to faulty conclusions and unreliable results.
 
 **• Consistency:** Data cleaning helps in maintaining consistency across the dataset. Consistent formatting and units of measurement are vital for comparing and aggregating data accurately.
